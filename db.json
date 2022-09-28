@@ -1,5 +1,5 @@
 {
-[
+"Movies": [
 {
 "title": "Fight Club",
 "releaseYear": 1999,
@@ -37,7 +37,7 @@
 }
 
 ],
-[
+"Director": [
 {
 "name": "Matt Reeves",
 "fistFilm": "Future Shock",
