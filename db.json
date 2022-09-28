@@ -2,10 +2,10 @@
 "Movies": [
 {
 "title": "Fight Club",
-"releaseYear": 1999,
+"releaseYear": "1999",
 "director": "David Fincher",
 "distributedBy": "20th Century Fox",
-"runningTime": 139,
+"runningTime": 139
 },
 {
 "title": "The Social Network",
@@ -19,21 +19,21 @@
 "releaseYear": 2010,
 "director": "Christopher Nolan",
 "distributedBy": "Warner Bros. Pictures",
-"runningTime": 148,
+"runningTime": 148
 },
 {
 "title": "Memento",
 "releaseYear": 2000,
 "director": "Christopher Nolan",
 "distributedBy": "Newmarket",
-"runningTime": 113,
+"runningTime": 113
 },
 {
 "title": "The Batman",
 "releaseYear": 2022,
 "director": "Matt Reeves",
 "distributedBy": "Warner Bros. Pictures",
-"runningTime": 176,
+"runningTime": 176
 }
 
 ],
@@ -41,17 +41,17 @@
 {
 "name": "Matt Reeves",
 "fistFilm": "Future Shock",
-"activeSince": 1994,
+"activeSince": 1994
 },
 {
 "name": "Christopher Nolan",
 "fistFilm": "Following",
-"activeSince": 1998,
+"activeSince": 1998
 },
 {
 "name": "David Fincher",
 "fistFilm": "Alien 3",
-"activeSince": 1992,
+"activeSince": 1992
 }
 ]
 }
