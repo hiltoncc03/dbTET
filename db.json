@@ -1,4 +1,3 @@
-//movies
 [
 {
 title: "Fight Club",
@@ -37,8 +36,6 @@ runningTime: 176,
 }
 
 ],
-
-//directors 
 [
 {
 name: "Matt Reeves",
