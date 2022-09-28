@@ -1,4 +1,5 @@
-movies [
+//movies
+[
 {
 title: "Fight Club",
 releaseYear: 1999,
@@ -37,7 +38,8 @@ runningTime: 176,
 
 ],
 
-directors [
+//directors 
+[
 {
 name: "Matt Reeves",
 firstFilm: "Future Shock",
