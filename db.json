@@ -1,56 +1,56 @@
 [
 {
-title: "Fight Club",
-releaseYear: 1999,
-director: "David Fincher",
-distributedBy: "20th Century Fox",
-runningTime: 139,
+"title": "Fight Club",
+"releaseYear": 1999,
+"director": "David Fincher",
+"distributedBy": "20th Century Fox",
+"runningTime": 139,
 },
 {
-title: "The Social Network",
-releaseYear: 2010,
-director: "David Fincher",
-distributedBy: "Sony Pictures Releasing",
-runningTime: 120
+"title": "The Social Network",
+"releaseYear": 2010,
+"director": "David Fincher",
+"distributedBy": "Sony Pictures Releasing",
+"runningTime": 120
 }
 {
-title: "Inception",
-releaseYear: 2010,
-director: "Christopher Nolan",
-distributedBy: "Warner Bros. Pictures",
-runningTime: 148,
+"title": "Inception",
+"releaseYear": 2010,
+"director": "Christopher Nolan",
+"distributedBy": "Warner Bros. Pictures",
+"runningTime": 148,
 },
 {
-title: "Memento",
-releaseYear: 2000,
-director: "Christopher Nolan",
-distributedBy: "Newmarket",
-runningTime: 113,
+"title": "Memento",
+"releaseYear": 2000,
+"director": "Christopher Nolan",
+"distributedBy": "Newmarket",
+"runningTime": 113,
 },
 {
-title: "The Batman",
-releaseYear: 2022,
-director: "Matt Reeves",
-distributedBy: "Warner Bros. Pictures",
-runningTime: 176,
+"title": "The Batman",
+"releaseYear": 2022,
+"director": "Matt Reeves",
+"distributedBy": "Warner Bros. Pictures",
+"runningTime": 176,
 }
 
 ],
 [
 {
-name: "Matt Reeves",
-firstFilm: "Future Shock",
-activeSince: 1994,
+"name": "Matt Reeves",
+"fistFilm": "Future Shock",
+"activeSince": 1994,
 },
 {
-name: "Christopher Nolan",
-firstFilm: "Following",
-activeSince: 1998,
+"name": "Christopher Nolan",
+"fistFilm": "Following",
+"activeSince": 1998,
 },
 {
-name: "David Fincher",
-firstFilm: "Alien 3",
-activeSince: 1992,
+"name": "David Fincher",
+"fistFilm": "Alien 3",
+"activeSince": 1992,
 }
 
 ]
